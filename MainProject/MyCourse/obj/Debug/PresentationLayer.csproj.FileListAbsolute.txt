@@ -1,0 +1,225 @@
+E:\Project\MyCourse\MyCourse\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.Properties.Resources.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\Project\MyCourse\MyCourse\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.exe
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.pdb
+E:\Project\MyCourse\MyCourse\bin\Debug\MyCourse.exe.config
+E:\Project\MyCourse\MyCourse\bin\Debug\MyCourse.exe
+E:\Project\MyCourse\MyCourse\bin\Debug\MyCourse.pdb
+E:\Project\MyCourse\MyCourse\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Project\MyCourse\MyCourse\obj\Debug\PresentationLayer.loginPage.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\PresentationLayer.facultySignUp.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\PresentationLayer.signUpSelect.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\PresentationLayer.studentSignUp.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\PresentationLayer.studentUi.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\Project\MyCourse\MyCourse\bin\Debug\Entities.dll
+E:\Project\MyCourse\MyCourse\bin\Debug\Services.dll
+E:\Project\MyCourse\MyCourse\bin\Debug\Entities.pdb
+E:\Project\MyCourse\MyCourse\bin\Debug\Services.pdb
+E:\Project\MyCourse\MyCourse\bin\Debug\DAL.dll
+E:\Project\MyCourse\MyCourse\bin\Debug\DAL.pdb
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.courseSelectPart1.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.courseSelectPart2.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.myCourseUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.myScheduleUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.noteUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.examScheduleUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.courseProgressUserConrol.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.noticeUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.facultyUi.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.myAssignedCourseUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.addCourseOutlineUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.viewStudentUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.insertCourseProgressUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.insertNoteUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.insertNoticeUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.adminUi.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.AdminUserControls.createCourseUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.AdminUserControls.courseListUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.AdminUserControls.studentListUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.AdminUserControls.facultyListUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.AdminUserControls.assignFacultyUserControl.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.AdminUserControls.setExamTimeUserControl.resources
+E:\Project\ProjectStructure\MyCourse\bin\Debug\MyCourse.exe.config
+E:\Project\ProjectStructure\MyCourse\bin\Debug\MyCourse.exe
+E:\Project\ProjectStructure\MyCourse\bin\Debug\MyCourse.pdb
+E:\Project\ProjectStructure\MyCourse\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Project\ProjectStructure\MyCourse\bin\Debug\Entities.dll
+E:\Project\ProjectStructure\MyCourse\bin\Debug\Services.dll
+E:\Project\ProjectStructure\MyCourse\bin\Debug\DAL.dll
+E:\Project\ProjectStructure\MyCourse\bin\Debug\Entities.pdb
+E:\Project\ProjectStructure\MyCourse\bin\Debug\Services.pdb
+E:\Project\ProjectStructure\MyCourse\bin\Debug\DAL.pdb
+E:\Project\ProjectStructure\MyCourse\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.addCourseOutlineUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.adminUi.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.AdminUserControls.assignFacultyUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.AdminUserControls.courseListUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.AdminUserControls.createCourseUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.AdminUserControls.facultyListUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.AdminUserControls.setExamTimeUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.AdminUserControls.studentListUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.courseProgressUserConrol.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.courseSelectPart1.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.courseSelectPart2.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.examScheduleUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.facultyUi.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.insertCourseProgressUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.insertNoteUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.insertNoticeUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\PresentationLayer.loginPage.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.myAssignedCourseUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.myCourseUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.myScheduleUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.noteUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.noticeUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.Properties.Resources.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\PresentationLayer.facultySignUp.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\PresentationLayer.signUpSelect.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\PresentationLayer.studentSignUp.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\PresentationLayer.studentUi.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.viewStudentUserControl.resources
+E:\Project\ProjectStructure\MyCourse\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\Project\ProjectStructure\MyCourse\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Project\ProjectStructure\MyCourse\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.exe
+E:\Project\ProjectStructure\MyCourse\obj\Debug\MyCourse.pdb
+E:\Project\MainProject\MyCourse\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Project\MainProject\MyCourse\bin\Debug\Entities.dll
+E:\Project\MainProject\MyCourse\bin\Debug\Services.dll
+E:\Project\MainProject\MyCourse\bin\Debug\DAL.dll
+E:\Project\MainProject\MyCourse\bin\Debug\Entities.pdb
+E:\Project\MainProject\MyCourse\bin\Debug\Services.pdb
+E:\Project\MainProject\MyCourse\bin\Debug\DAL.pdb
+E:\Project\MainProject\MyCourse\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.addCourseOutlineUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.adminUi.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.assignFacultyUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.courseListUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.createCourseUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.facultyListUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.setExamTimeUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.courseProgressUserConrol.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.examScheduleUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.facultyUi.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.insertCourseProgressUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.insertNoteUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.insertNoticeUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\PresentationLayer.loginPage.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.myAssignedCourseUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.myCourseUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.myScheduleUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.noteUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.noticeUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.Properties.Resources.resources
+E:\Project\MainProject\MyCourse\obj\Debug\PresentationLayer.facultySignUp.resources
+E:\Project\MainProject\MyCourse\obj\Debug\PresentationLayer.signUpSelect.resources
+E:\Project\MainProject\MyCourse\obj\Debug\PresentationLayer.studentSignUp.resources
+E:\Project\MainProject\MyCourse\obj\Debug\PresentationLayer.studentUi.resources
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.viewStudentUserControl.resources
+E:\Project\MainProject\MyCourse\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+E:\Project\MainProject\MyCourse\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+E:\Project\MainProject\MyCourse\obj\Debug\PresentationLayer.csproj.CopyComplete
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.StudentUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\bin\Debug\MyCourse.exe.config
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\bin\Debug\MyCourse.exe
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\bin\Debug\MyCourse.pdb
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\bin\Debug\Entities.dll
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\bin\Debug\Services.dll
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\bin\Debug\DAL.dll
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\bin\Debug\Entities.pdb
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\bin\Debug\Services.pdb
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\bin\Debug\DAL.pdb
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.addCourseOutlineUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.adminUi.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.assignFacultyUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.courseListUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.createCourseUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.facultyListUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.setExamTimeUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.StudentUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.courseProgressUserConrol.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.courseSelectPart1.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.courseSelectPart2.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.examScheduleUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.facultyUi.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.insertCourseProgressUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.insertNoteUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.insertNoticeUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\PresentationLayer.loginPage.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.myAssignedCourseUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.myCourseUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.myScheduleUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.noteUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.noticeUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.Properties.Resources.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\PresentationLayer.facultySignUp.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\PresentationLayer.signUpSelect.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\PresentationLayer.studentSignUp.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\PresentationLayer.studentUi.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.viewStudentUserControl.resources
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.exe
+C:\Users\kamrul islam\Desktop\MainProject\MyCourse\obj\Debug\MyCourse.pdb
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourse.StudentUserControls.StudentCourseRegistationUserControl.resources
+E:\Project\MainProject\MyCourse\bin\Debug\MyCourseGuide.exe.config
+E:\Project\MainProject\MyCourse\bin\Debug\MyCourseGuide.exe.manifest
+E:\Project\MainProject\MyCourse\bin\Debug\MyCourseGuide.application
+E:\Project\MainProject\MyCourse\bin\Debug\MyCourseGuide.exe
+E:\Project\MainProject\MyCourse\bin\Debug\MyCourseGuide.pdb
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourseGuide.TrustInfo.xml
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourseGuide.exe.manifest
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourseGuide.application
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourseGuide.exe
+E:\Project\MainProject\MyCourse\obj\Debug\MyCourseGuide.pdb
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\PresentationLayer.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.addCourseOutlineUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.adminUi.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.assignFacultyUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.courseListUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.createCourseUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.facultyListUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.setExamTimeUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.AdminUserControls.StudentUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.courseProgressUserConrol.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.examScheduleUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.facultyUi.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.insertCourseProgressUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.insertNoteUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.insertNoticeUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\PresentationLayer.loginPage.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.myAssignedCourseUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.myCourseUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.myScheduleUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.noteUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.noticeUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.Properties.Resources.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\PresentationLayer.facultySignUp.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\PresentationLayer.signUpSelect.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\PresentationLayer.studentSignUp.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\PresentationLayer.studentUi.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.viewStudentUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourse.StudentUserControls.StudentCourseRegistationUserControl.resources
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\PresentationLayer.csproj.GenerateResource.Cache
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourseGuide.TrustInfo.xml
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourseGuide.exe
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourseGuide.pdb
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\bin\Debug\MyCourseGuide.exe.config
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\bin\Debug\MyCourseGuide.exe.manifest
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\bin\Debug\MyCourseGuide.application
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\bin\Debug\MyCourseGuide.exe
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\bin\Debug\MyCourseGuide.pdb
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\bin\Debug\Entities.dll
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\bin\Debug\Services.dll
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\bin\Debug\DAL.dll
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\bin\Debug\Entities.pdb
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\bin\Debug\Services.pdb
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\bin\Debug\DAL.pdb
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourseGuide.exe.manifest
+C:\Users\HP\Desktop\C# project\gui\MyCourseGuide\MainProject\MyCourse\obj\Debug\MyCourseGuide.application

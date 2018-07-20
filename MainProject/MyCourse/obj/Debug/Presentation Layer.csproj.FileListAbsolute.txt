@@ -1,0 +1,16 @@
+E:\Project\MyCourse\MyCourse\bin\Debug\MyCourse.exe.config
+E:\Project\MyCourse\MyCourse\bin\Debug\MyCourse.exe
+E:\Project\MyCourse\MyCourse\bin\Debug\MyCourse.pdb
+E:\Project\MyCourse\MyCourse\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Project\MyCourse\MyCourse\obj\Debug\Presentation Layer.csprojResolveAssemblyReference.cache
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.loginPage.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.Properties.Resources.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.facultySignUp.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.signUpSelect.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.studentSignUp.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.studentUi.resources
+E:\Project\MyCourse\MyCourse\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+E:\Project\MyCourse\MyCourse\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+E:\Project\MyCourse\MyCourse\obj\Debug\Presentation Layer.csproj.CopyComplete
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.exe
+E:\Project\MyCourse\MyCourse\obj\Debug\MyCourse.pdb
